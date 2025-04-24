@@ -118,6 +118,4 @@ Prepare deployment to mainnet for real-world donations.
 Promote the project to schools and educational organizations in need.
 
 
-Contact
-
-Author: Arbi ShehuFor contributions, issues, or inquiries, please contact [your-email@example.com] or open an issue on the project repository.
+Author: Arbi Shehu
